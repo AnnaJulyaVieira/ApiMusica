@@ -1,0 +1,33 @@
+[
+	{ 	
+	"nome_da_musica": "Traumatizei",
+	"cantor": "Henrique e Juliano",
+	"ritmo": "Sertanejo",
+	"img": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/04/20155950/HJ-capa-TO-BE-EP-3-1-scaled.jpg",
+	"album": "To be"
+	},
+
+	{ 	
+	"nome_da_musica": "Oi balde",
+	"cantor": "Z? Neto e Cristiano",
+	"ritmo": "Sertanejo",
+	"img": "https://akamai.sscdn.co/uploadfile/letras/albuns/d/0/0/2/1703961676631021.jpg",
+	"album": "Escolhas"
+	},
+	
+	{ 	
+	"nome_da_musica": "Pris?o sem grade",
+	"cantor": "Jorge e Mateus",
+	"ritmo": "Sertanejo",
+	"img": "https://m.media-amazon.com/images/I/51AtSJvmgHL._UF1000,1000_QL80_.jpg",
+	"album": "A hora ? agora"
+	},
+
+	{ 	
+	"nome_da_musica": "Nosso santo bateu",
+	"cantor": "Matheus e Kauan",
+	"ritmo": "Sertanejo",
+	"img": "https://www.vagalume.com.br/matheus-e-kauan/discografia/na-praia.jpg",
+	"album": "Na praia"
+	}
+]
