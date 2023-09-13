@@ -1,0 +1,76 @@
+[
+	{ 	
+	"nome_da_musica": "Traumatizei",
+	"cantor": "Henrique e Juliano",
+	"ritmo": "Sertanejo",
+	"img": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2023/04/20155950/HJ-capa-TO-BE-EP-3-1-scaled.jpg",
+	"album": "To be"
+	},
+
+	{ 	
+	"nome_da_musica": "Oi balde",
+	"cantor": "Z� Neto e Cristiano",
+	"ritmo": "Sertanejo",
+	"img": "https://akamai.sscdn.co/uploadfile/letras/albuns/d/0/0/2/1703961676631021.jpg",
+	"album": "Escolhas"
+	},
+	
+	{ 	
+	"nome_da_musica": "Pris�o sem grade",
+	"cantor": "Jorge e Mateus",
+	"ritmo": "Sertanejo",
+	"img": "https://m.media-amazon.com/images/I/51AtSJvmgHL._UF1000,1000_QL80_.jpg",
+	"album": "A hora � agora"
+	},
+
+	{ 	
+	"nome_da_musica": "Nosso santo bateu",
+	"cantor": "Matheus e Kauan",
+	"ritmo": "Sertanejo",
+	"img": "https://www.vagalume.com.br/matheus-e-kauan/discografia/na-praia.jpg",
+	"album": "Na praia"
+	},
+
+	{ 	
+	"nome_da_musica": "Melhor s�",
+	"cantor": "Kayblack",
+	"ritmo": "Trap",
+	"img": "https://akamai.sscdn.co/uploadfile/letras/albuns/2/0/8/5/1730951680281022.jpg",
+	"album": "Contradi��es"
+	},
+
+	{ 	
+	"nome_da_musica": "Barras e barras",
+	"cantor": "Derek",
+	"ritmo": "Trap",
+	"img": "https://i.scdn.co/image/ab67616d0000b27302e44464bcac91d2414582ab",
+	"album": "Trap The Fato"
+	},
+
+	{ 	
+	"nome_da_musica": "Hoje tem baile",
+	"cantor": "Poze do rodo",
+	"ritmo": "Trap",
+	"img": "https://s2-g1.glbimg.com/0ZNIX7I9hdh_ulTNW0Ri6VCz3G0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/6/1/xaXCxWQQqK82IgwdNa1Q/image00002.jpeg",
+	"album": "Sabio"
+	},
+
+	{ 	
+	"nome_da_musica": "Meu nome n�o � Igor",
+	"cantor": "Mc Ig",
+	"ritmo": "Funk",
+	"img": "https://www.canalraprj.com.br/wp-content/uploads/2023/08/IG.png",
+	"album": "Igor Guilherme"
+	},
+
+
+	{ 	
+	"nome_da_musica": "Minha cura",
+	"cantor": "Mc Cabelinho",
+	"ritmo": "Hip-Hop/Rap",
+	"img": "https://akamai.sscdn.co/uploadfile/letras/albuns/b/f/9/6/1768381683285834.jpg",
+	"album": "Little Love Deluxo"
+	}
+
+	
+]
